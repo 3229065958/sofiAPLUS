@@ -1,0 +1,20 @@
+*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+            
+.nav {
+    text-decoration:none;
+    color:inherit;
+    font-size:20px;
+    } 
+    .a{
+    display:inline-block;
+    width:20%;
+    padding:8px 13px;
+    background-color:#20e40e;
+  
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#1ac91a;
+    color:#fff9f9;
+    }
